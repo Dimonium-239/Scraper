@@ -12,7 +12,7 @@ Program which parse plots from [otodom.pl](https://www.otodom.pl/) for [PlotsMan
   - kilometers from centre
 
 - Check and delete unactual links from data base
-- Add to database 'plots' which is common with [PlotsManager](https://github.com/Dimonium-239/PlotsManager))
+- Add to database 'plots' which is common with [PlotsManager](https://github.com/Dimonium-239/PlotsManager)
 
 ## Built With
 * [Jsoup](https://jsoup.org/) - Java library for working with real-world HTML
